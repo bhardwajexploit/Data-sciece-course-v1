@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+openpyxl
+nbformat
+scipy   
+#pip install -r requirments.txtpip freeze
