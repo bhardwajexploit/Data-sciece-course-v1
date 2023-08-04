@@ -1,0 +1,29 @@
+student details 
+Ayush =100
+student details 
+Ayush =100
+student details 
+Ayush =100
+student details 
+Ayush =100 
+
+student details 
+Ayush =100 
+abhay =99 
+udit =95 
+sachin =101 
+student details 
+Ayush =100 
+abhay =99 
+udit =95 
+sachin =101 
+
+student details 
+Ayush =100 
+
+abhay =99 
+
+udit =95 
+
+sachin =101 
+
