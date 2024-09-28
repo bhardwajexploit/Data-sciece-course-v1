@@ -1,1 +1,2 @@
-HI,this my data Science Repo,in which I am constanlty learning about the new methodologies of Data science
+Welcome to the data Science Repo,
+-This repo u will get knowledge about Data Science and python Basics 
